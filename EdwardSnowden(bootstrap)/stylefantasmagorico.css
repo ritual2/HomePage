@@ -1,0 +1,20 @@
+.header {
+    padding: 25px;
+    background-color: #41403f;
+    width: 100%;
+    position: relative;
+    right: 1%;
+}
+.h3 {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 125%;
+}
+.indice {
+    position: absolute;
+    right: 86%;
+    background-color: #999999;
+    height: 100%;
+    width: 14%;
+}
